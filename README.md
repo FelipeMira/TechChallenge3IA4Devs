@@ -1,6 +1,6 @@
 # Fine Tuning com Llama para Descrição de Títulos
 
-Este projeto demonstra como realizar o ajuste fino de um modelo GPT para gerar descrições de títulos com base no conteúdo usando a biblioteca Unsloth.
+Este projeto demonstra como realizar o ajuste fino de um modelo Llama para gerar descrições de títulos com base no conteúdo usando a biblioteca Unsloth.
 
 ## Visão Geral do Projeto
 
