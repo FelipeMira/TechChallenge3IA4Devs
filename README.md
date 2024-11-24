@@ -1,4 +1,4 @@
-# Ajuste Fino do GPT para Descrição de Títulos
+# Fine Tuning com Llama para Descrição de Títulos
 
 Este projeto demonstra como realizar o ajuste fino de um modelo GPT para gerar descrições de títulos com base no conteúdo usando a biblioteca Unsloth.
 
@@ -15,7 +15,7 @@ O projeto consiste nas seguintes etapas:
    - Requer um ambiente de execução com GPU para desempenho ideal.
 
 3. **Carregamento e Adaptação do Modelo:**
-   - Carrega um modelo GPT pré-treinado (por exemplo, llama-3-8b-bnb-4bit).
+   - Carrega um modelo Llama pré-treinado (por exemplo, llama-3-8b-bnb-4bit).
    - Aplica Ajuste Fino Eficiente em Parâmetros (PEFT) usando LoRA (Adaptação de Baixo Rank) para adaptar o modelo à tarefa específica.
 
 4. **Formatação do Conjunto de Dados:**
