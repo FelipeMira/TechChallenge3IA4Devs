@@ -6,6 +6,12 @@ Este projeto demonstra como realizar o ajuste fino de um modelo Llama para gerar
 
 O projeto consiste nas seguintes etapas:
 
+0. **Download o dataset da Amazon:**
+   - Download dataset
+   - Mount um drive no google
+   - Cria as pastas necessárias
+   - Unzip e descompacta na pasta alvo
+
 1. **Preparação de Dados:**
    - Limpa e pré-processa dados de texto de um arquivo JSON.
    - Formata os dados em prompts adequados para ajuste fino.
@@ -34,4 +40,3 @@ O projeto consiste nas seguintes etapas:
 ## Uso
 
 1. Certifique-se de ter um ambiente Google Colab com um ambiente de execução de GPU habilitado.
-2. Instale as bibliotecas necessárias:
