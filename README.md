@@ -493,12 +493,16 @@ tokenizer.batch_decode(...): Converte os tokens de saída em texto.
 
 ## Resultado Obtido
 
+['<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nDESCRIBE THE TITLE BASED ON THE CONTENT.\n\n### Input:\nThe GOOD LUCK PENCIL\n\n### Response:\nGr. 2-4--This is a story of a pencil that has been used by a number of children and is now passed on to a new owner, a little girl named Mary. The pencil has been passed on by a number of children, and each one has added his or her own words to the story']
+
+### Traduzindo o resultado
+
 Gr. 2-4--Esta é a história de um lápis que foi usado por várias crianças e agora foi passado para uma nova dona, uma garotinha chamada Mary. O lápis foi repassado por diversas crianças e cada uma acrescentou suas próprias palavras à história.
 
-História do dataset (Inglês):
+### História do dataset (Inglês)
 
 Mary Ann can't do anything wrong especially after finding a good-luck pencil. She works all the math problems right and draws pictures that everyone admires. When her teacher assigns a homework composition, Mary Ann must find something interesting to write about her ordinary family, so she lets the good-luck pencil go to work. It writes that her mother is a world-famous ballerina, her father is an astronaut and Mary Ann a world champion piano player planning to climb Mt. Olympus in the summer. But then the composition becomes real. After practicing Mozart and Bach over and over, then doing hours of exhausting exercises, Mary Ann longs for a regular life again. She pulls out a different pencil and writes a less exciting but accurate composition, dispelling the unwanted illusion. The illustrations are lighthearted and will draw young readers into repeated readings. Copyright 1986 Reed Business Information, Inc.
 
-(Português):
+### História do dataset (Português):
 
 Mary Ann não pode fazer nada de errado, especialmente depois de encontrar um lápis da sorte. Ela resolve todos os problemas de matemática corretamente e faz desenhos que todos admiram. Quando sua professora atribui uma redação de lição de casa, Mary Ann deve encontrar algo interessante para escrever sobre seu cotidiano a família, então ela deixa o lápis da sorte trabalhar. Ele escreve que sua mãe é uma bailarina mundialmente famosa, seu pai é um astronauta e Mary Ann uma pianista campeã mundial que planeja escalar o Monte. então a composição se torna real Depois de praticar Mozart e Bach repetidamente e depois fazer horas de exercícios exaustivos, Mary Ann anseia por uma vida normal novamente. Ela pega um lápis diferente e escreve uma composição menos emocionante, mas precisa, dissipando a ilusão indesejada. alegre e atrairá jovens leitores para leituras repetidas. Copyright 1986 Reed Business Information, Inc.
